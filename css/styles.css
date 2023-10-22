@@ -729,6 +729,10 @@ body {
   letter-spacing: 0.06em;
 }
 
+#terms-and-condition {
+  accent-color: var(--link-activ-color);
+}
+
 .input-subscribe svg {
   width: 24px;
   height: 24px;
